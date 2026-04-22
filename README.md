@@ -1,6 +1,6 @@
-# Benchmarking Modern Tabular Deep Learning Algorithms for Multi-Class IoT Network Intrusion Detection
+# Benchmarking Recent Machine Learning Algorithms for Multi-Class IoT Network Intrusion Detection
 
-This repository contains the code, notebooks, and evaluation pipeline for a benchmark study of **ten modern tabular deep learning algorithms** applied to **multi-class IoT network intrusion detection**, using the **TON-IoT** dataset as the primary benchmark. Additional datasets are included for the dataset-selection phase and for a traditional machine learning prototype.
+This repository contains the code, notebooks, and evaluation pipeline for a benchmark study of **ten recent mahine learning algorithms** applied to **multi-class IoT network intrusion detection**, using the **TON-IoT** dataset as the primary benchmark. Additional datasets are included for the dataset-selection phase and for a traditional machine learning prototype.
 
 All experiments are designed to run in **Google Colab** with a **T4 GPU** runtime and use **Google Drive** for persistent storage of datasets and outputs.
 
